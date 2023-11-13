@@ -1,0 +1,6 @@
+.hh-box-icon{position: absolute; top: 0:right: 0;width:75px;}
+.hh-box{
+    width: 200px; heght: 260px;
+    border: 1px solid blue;position: relative;
+}
+.hh-box:hover{border-radius: 7px; box-shadow: 0 0 10px green;}
